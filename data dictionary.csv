@@ -1,0 +1,32 @@
+Mnemonic,Description,,,Category,,Units
+act,Total Current Assets,,,balance sheet,,millions
+ap,Accounts Payable,,,balance sheet,,millions
+at,Total Assets,,,balance sheet,,millions
+ceq,Total Common/Ordinary Equity,,,balance sheet,,millions
+che,Cash and Short-Term Investments,,,balance sheet,,millions
+cogs,Cost of Goods Sold,,,balance sheet,,millions
+dlc,Total Debt in Current Liabilities,,,balance sheet,,millions
+dlcch,Current Debt Changes,,,cash flow,,millions
+dltt,Total Long-Term Debt,,,balance sheet,,millions
+dp,Depreciation and Amortization,,,income statement,,millions
+dvc,Dividends Common/Ordinary,,,,,millions
+ib,Income Before Extraordinary Items,,,income statement,,millions
+intan,Total Intangible Assets,,,balance sheet,,millions
+invt,Total Inventories,,,balance sheet,,millions
+ivao,Investments and Advances,,,balance sheet,,millions
+lct,Total Current Liabilities,,,balance sheet,,millions
+lt,Total Liabilities,,,balance sheet,,millions
+nopio,Nonoperating Income (expense),,,income statement,,millions
+ppent,"Total Property, Plant and Equipment",,,balance sheet,,millions
+rect,Total Receivables,,,balance sheet,,millions
+sale,Net Sales/Turnover,,,income statement,,millions
+spi,Special Items,,,income statement,,millions
+txp,Income Taxes Payable,,,balance sheet,,millions
+txt,Total Income Taxes,,,income statement,,millions
+xad,Advertising Expense,,,income statement,,millions
+xido,Extraordinary Items and Discontinued Operations,,,income statement,,millions
+xint,Total Interest and Related Expense,,,income statement,,millions
+xrd,Research and Development Expense,,,income statement,,millions
+xsga,"Selling, General and Administrative Expense",,,income statement,,millions
+mkvalt,Total Market Value,,,,,millions
+tic,Ticker,,,,,
