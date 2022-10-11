@@ -6,7 +6,7 @@ A web application that uses stock fundamental data to classify stocks as underva
 
 ## Data Sources
 - Wharton Research Data Service
-  https://wrds-www.wharton.upenn.edu/
+   https://wrds-www.wharton.upenn.edu/
 
 - yFinance api  
-  https://pypi.org/project/yfinance/
+   https://pypi.org/project/yfinance/
