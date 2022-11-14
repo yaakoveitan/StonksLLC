@@ -3,9 +3,8 @@
 ## Description
 A web application that uses stock fundamental data to classify stocks as undervalued/overvalued
 
-
 ## Features
-- machine learning model to predict if undervalued if overvalued
+- machine learning model to predict if a stcok is undervalued or overvalued
 - visualizations of the data to gain insights 
 
 
